@@ -4,7 +4,7 @@
 
 I am an IT professional based in the Fort Worth metroplex, passionate about building reliable network infrastructure and maintaining enterprise systems. I am currently completing my B.S. in Cloud Computing at Purdue University Global (expected 2026) and actively documenting my homelab environments to bridge theoretical concepts with hands-on implementation. 
 
-By utilizing my foundational network knowledge and troubleshooting expertise, I am pursuing Cloud Support Associate or **Remote IT Support** roles.
+By utilizing my foundational network knowledge and troubleshooting expertise, I am pursuing **Cloud Support Associate** or **Remote IT Support** roles.
 
 ---
 
