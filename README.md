@@ -2,9 +2,9 @@
 
 ### 🖥️ IT Professional | Network Infrastructure & Systems Administration
 
-I am an IT professional based in the Fort Worth metroplex, passionate about building reliable network infrastructure and maintaining enterprise systems. I am currently completing my B.S. in Information Technology at Purdue University Global (expected December 2026) and actively documenting my homelab environments to bridge theoretical concepts with hands-on implementation. 
+I am an IT professional based in the Fort Worth metroplex, passionate about building reliable network infrastructure and maintaining enterprise systems. I am currently completing my B.S. in Cloud Computing at Purdue University Global (expected 2026) and actively documenting my homelab environments to bridge theoretical concepts with hands-on implementation. 
 
-I am actively seeking **Network Operations Center (NOC)** or **Remote IT Support** opportunities where I can leverage my troubleshooting skills and foundational network knowledge.
+By utilizing my foundational network knowledge and troubleshooting expertise, I am pursuing Cloud Support Associate or **Remote IT Support** roles.
 
 ---
 
@@ -22,7 +22,7 @@ Here are the industry credentials I hold:
 *   **CompTIA A+**
 *   **Google IT Support Professional**
 *   **Google Data Analytics**
-*   **FOA Certified Fiber Optic Installer**
+*   **FOA Certified Fiber Optic Installer** (ETA)
 
 ---
 
@@ -46,5 +46,5 @@ When I'm not configuring virtual switches or racking servers, you can usually fi
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/rodgerscharles](#) *(<- Don't forget to add your link here!)*
-- **Email:** crworks1099@gmail.com *(<- Update with your contact email)*
+- **LinkedIn:** [linkedin.com/in/rodgerscharles](#) 
+- **Email:** crworks1099@gmail.com 
